@@ -7,7 +7,7 @@
 🧑‍💻**About me:**
 
 🚀 I started my journey in software development over four years ago.<br>
-💼 Currently, I am focused on expanding my knowledge in various technologies and frameworks.<br>
+💼 Currently, I'm focused on expanding my knowledge in various technologies and frameworks.<br>
 🌐 I'm always seeking to learn and apply best practices in software development and testing.<br>
 
 📨 **Contact me:**
