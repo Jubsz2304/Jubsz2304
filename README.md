@@ -20,10 +20,9 @@
 ![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
-
-
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
+![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=slack)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?&size=)
 
 <div align="left">
