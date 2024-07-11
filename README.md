@@ -5,7 +5,7 @@
 
 🧑‍💻**About me:**
 
-🚀 I started my journey in software development over four years ago.<br>
+🚀 I started my journey in software development over three years ago.<br>
 💼 Currently, I'm focused on expanding my knowledge in various technologies and frameworks.<br>
 🌐 I'm always seeking to learn and apply best practices in software development and testing.<br>
 
@@ -25,6 +25,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-545454?style=flat&logo=github)
 ![Linux](https://img.shields.io/badge/-Linux-545454?style=flat&logo=linux)
 ![Postman](https://img.shields.io/badge/-Postman-545454?style=flat&logo=postman)
+![JMeter](https://img.shields.io/badge/-JMeter-545454?style=flat&logo=apachejmeter)
 ![Trello](https://img.shields.io/badge/-Trello-545454?style=flat&logo=trello)
 ![Slack](https://img.shields.io/badge/-Slack-545454?style=flat&logo=slack)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-545454?style=flat)
