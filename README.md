@@ -29,4 +29,4 @@
 ![Slack](https://img.shields.io/badge/-Slack-545454?style=flat&logo=slack)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-545454?style=flat)
 
-<div align="left">
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jubsz2304&show_icons=true&theme=dracula)](https://github.com/Jubsz2304/)
