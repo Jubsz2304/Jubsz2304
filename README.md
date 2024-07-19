@@ -6,7 +6,7 @@
 🧑‍💻**About me:**
 
 🚀 I started my journey in software development over three years ago.<br>
-💼 Currently, I'm focused on expanding my knowledge in various technologies and frameworks.<br>
+💼 Currently, I'm dedicated to deepening my expertise in automation testing with a particular emphasis on Cypress and Playwright frameworks. My goal is to master these tools to enhance efficiency leveraging their capabilities to streamline development processes and ensure robust application quality.<br>
 🌐 I'm always seeking to learn and apply best practices in software development and testing.<br>
 
 📨 **Contact me:**
